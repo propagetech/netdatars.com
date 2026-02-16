@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  src: url('fonts/a4ebf21a4976b361dd773e0025b25f91.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Merriweather';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  src: url('fonts/6660dfd598eb585b4f5092460175da1f.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  src: url('fonts/da59a9c5214844a109aa8ec3d9a30e3a.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  src: url('fonts/b5b2dda2226a6db813dac7d3e6a67f3c.ttf') format('truetype');
+}
